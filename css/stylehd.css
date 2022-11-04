@@ -137,7 +137,7 @@ a .btn-log{
     width:auto;
     height: auto;
     padding: 13px 24px;
-    border-radius: 100px;
+    border-radius: 20px;
     transition: all 0.8ms;
     /*animation: move 1s initial;*/
 }
@@ -151,7 +151,7 @@ a .btn-log{
     height: auto;
     padding: 13px;
     margin: 10px;
-    border-radius: 100px;
+    border-radius: 20px;
     transition: all 0.8ms;
     
     
@@ -166,7 +166,7 @@ a .btn-log{
     height: auto;
     padding: 13px;
     margin: 10px;
-    border-radius: 100px;
+    border-radius: 20px;
     transition: all 0.8ms;
 }
 
@@ -179,7 +179,7 @@ a .btn-log{
     height: auto;
     padding: 13px;
     margin: 10px;
-    border-radius: 100px;
+    border-radius: 20px;
     transition: all 0.8ms;
 }
 
@@ -191,7 +191,7 @@ a .btn-log{
     width: auto;	
     height: auto;
     padding: 13px;
-    border-radius: 100px;
+    border-radius: 20px;
     margin: 10px;
     transition: all 0.8ms;
     
