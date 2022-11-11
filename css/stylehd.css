@@ -411,4 +411,23 @@ a .btn-log{
 
 }
 
+@media screen and (max-width:535px){
+    
+    .logo1{
+        position: absolute;
+        z-index: 6000;
 
+    }
+    
+    .logo2{
+        display: none;
+        position: absolute;
+    
+    }
+    
+    .cont_logos{
+        display: flex;
+        justify-content: center;
+    }
+
+}
